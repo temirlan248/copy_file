@@ -1,0 +1,3 @@
+/Users/temirlan248/CLionProjects/copy_file/cmake-build-debug/CMakeFiles/copy_file.dir
+/Users/temirlan248/CLionProjects/copy_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/temirlan248/CLionProjects/copy_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
